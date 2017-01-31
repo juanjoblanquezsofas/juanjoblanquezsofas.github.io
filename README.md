@@ -1,3 +1,2 @@
-# juanjoblanquezsofas.github.io
-
-Juanjo Blánquez Sofás
+# Juanjo Blánquez Sofás
+juanjoblanquezsofas.github.io
