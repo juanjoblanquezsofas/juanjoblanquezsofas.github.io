@@ -5,9 +5,11 @@ permalink: /tienda/
 group: menu
 ---
 
-
-<img class="img-responsive" src="/images/5-SOFA.jpg" alt="">
-
+<div class="row">
+	<div class="col-md-12">	
+		<img class="img-responsive" src="/images/5-SOFA.jpg" alt="">
+	</div>
+</div>
 
 <div class="row">
 	<div class="col-md-12">
