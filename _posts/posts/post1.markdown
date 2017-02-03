@@ -1,8 +1,9 @@
 ---
-title: Welcome to Jekyll 2
+published: true
+layout: blog
+title: 2013-02-25-test-blog.md
 date: '2017-01-28 12:46:02 +0100'
 category: posts
-published: true
 ---
 
 # Juanjo Bánquez Sofás 2
