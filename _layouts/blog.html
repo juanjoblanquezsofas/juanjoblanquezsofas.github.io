@@ -4,6 +4,7 @@ published: true
 ---
 <div class="row text-center">
 	{% for post in site.posts %}
+   Content: {{ content }}
 	<div class="col-md-12">
 	  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 			<div class="article-head">
