@@ -1,0 +1,13 @@
+---
+layout: post
+title: Welcome to Jekyll 2
+date: '2017-01-28 12:46:02 +0100'
+category: posts
+published: true
+---
+
+# Juanjo Bánquez Sofás 2
+
+
+![image-title-here](/1-SOFA.jpg){:class="img-responsive"}
+![]({{site.baseurl}}/media/FABI%20JB.png)![FABI JB.png]({{site.baseurl}}/media/FABI JB.png)

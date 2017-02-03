@@ -52,7 +52,11 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "productos"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "productos"          
       - name: "tags"
         field:
           element: "multiselect"

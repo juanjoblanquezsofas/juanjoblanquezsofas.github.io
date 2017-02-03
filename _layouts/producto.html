@@ -2,8 +2,14 @@
 layout: base
 ---
 
+<div class="row">
+	<div class="col-md-12">
+		<img src="http://www.ardicoleccion.com/wp-content/uploads/2015/02/sofa-sara-ardi-001.jpg" alt="" class="img-responsive">
+	</div>	
+</div>
+
 <div class="row text-center">
-	{% for post in site.categories.posts %}
+	{% for post in site.categories.producto %}
 	<div class="col-md-12">
 	    <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 			<div class="article-head">
@@ -16,6 +22,6 @@ layout: base
 			</div><!--/.article-content-->
 		</article>
 		{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
-	</div>	
+	</div>
 	{% endfor %}
 </div>
