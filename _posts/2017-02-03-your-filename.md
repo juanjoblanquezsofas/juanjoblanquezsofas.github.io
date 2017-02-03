@@ -1,6 +1,6 @@
 ---
+published: true
 layout: blog
-published: false
 ---
 ![2-SOFA.jpg]({{site.baseurl}}/media/2-SOFA.jpg){:class="img-responsive"}
 
