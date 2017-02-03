@@ -9,7 +9,7 @@ published: true
 <div class="row">
 	<div class="col-md-12">	
 		<!--<img class="img-responsive" src="/images/5-SOFA.jpg" alt="">-->
-        ![2-SOFA.jpg]({{site.baseurl}}/media/2-SOFA.jpg)
+![2-SOFA.jpg]({{site.baseurl}}/media/2-SOFA.jpg)
 
 	</div>
 </div>
