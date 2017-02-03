@@ -6,12 +6,9 @@ group: menu
 published: true
 ---
 
-![2-SOFA.jpg]({{site.baseurl}}/media/2-SOFA.jpg)
 <div class="row">
 	<div class="col-md-12">	
-		<!--<img class="img-responsive" src="/images/5-SOFA.jpg" alt="">-->
-
-
+		<img class="img-responsive" src="/images/5-SOFA.jpg" alt="">
 	</div>
 </div>
 
