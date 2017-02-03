@@ -1,9 +1,9 @@
 ---
+published: true
 layout: post
-title: Sillones
+title: Juanjo Blanquez
 date: '2017-01-27 12:46:02 +0100'
 categories: jekyll update
-published: true
 ---
 ![2-SOFA.jpg]({{site.baseurl}}/media/2-SOFA.jpg){:class="img-responsive"}
 
