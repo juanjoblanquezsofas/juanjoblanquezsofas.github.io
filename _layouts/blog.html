@@ -4,6 +4,7 @@ layout: base
 
 <div class="row text-center">
 	{% for post in site.posts %}
+	{% if post.categories contains 'posts' %}
 	<div class="col-md-12">
 	    <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 			<div class="article-head">
@@ -17,6 +18,7 @@ layout: base
 		</article>
 		{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
 	</div>	
+	{% endif %}
 	{% endfor %}
 
 </div>

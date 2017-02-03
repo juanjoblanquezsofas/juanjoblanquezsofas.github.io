@@ -49,24 +49,20 @@ prose:
     - /_includes
   metadata:
     _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
       - name: "published"
         field:
           element: "hidden"
           value: "true"          
-      - name: "tags"
+      - name: "layout"
         field:
           element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
+          label: "Add layout"
+          placeholder: "Escoge plantilla"
           options:
-            - name: "Title"
-              value: ""
-            - name: "Category"
-              value: ""
+            - name: "producto"
+              value: "producto"
+            - name: "blog"
+              value: "blog"
     _posts/static:
       - name: "layout"
         field:
