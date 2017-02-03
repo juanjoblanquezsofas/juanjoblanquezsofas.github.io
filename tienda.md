@@ -3,11 +3,14 @@ layout: default
 title: Tienda
 permalink: /tienda/
 group: menu
+published: true
 ---
 
 <div class="row">
 	<div class="col-md-12">	
-		<img class="img-responsive" src="/images/5-SOFA.jpg" alt="">
+		<!--<img class="img-responsive" src="/images/5-SOFA.jpg" alt="">-->
+        ![2-SOFA.jpg]({{site.baseurl}}/media/2-SOFA.jpg)
+
 	</div>
 </div>
 
@@ -43,8 +46,7 @@ group: menu
 						</div>
 	                    <div class="form-group">
 	                    <textarea class="form-control text-center" type="textarea"
-	                              id="message" placeholder="_tu mensaje" maxlength="600" rows="7"></textarea>
-	                        <!--<span class="help-block"><p id="characterLeft" class="help-block ">Has alcanzado el límite!</p></span>     -->               
+	                              id="message" placeholder="_tu mensaje" maxlength="600" rows="7"></textarea>        
 	                    </div>
 	            
 	        <button type="button" id="submit" name="submit" class="btn btn-primary btn-block text-center">Enviar</button>
