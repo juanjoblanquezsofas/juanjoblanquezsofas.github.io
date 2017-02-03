@@ -52,11 +52,19 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
+<<<<<<< HEAD
           value: "productos"
       - name: "category"
         field:
           element: "hidden"
           value: "productos"          
+=======
+          value: "blog"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"          
+>>>>>>> 5b0d9d0086d6fcbd05c3f920b2834559aab6b066
       - name: "tags"
         field:
           element: "multiselect"

@@ -1,7 +1,7 @@
 ---
 layout: base
+published: true
 ---
-
 <div class="row text-center">
 	{% for post in site.categories.posts %}
 	<div class="col-md-12">
@@ -18,4 +18,5 @@ layout: base
 		{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
 	</div>	
 	{% endfor %}
+
 </div>
