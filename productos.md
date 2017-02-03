@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: productos
 title: Productos
 permalink: /productos/
 group: menu
