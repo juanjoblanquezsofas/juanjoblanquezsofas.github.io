@@ -4,7 +4,7 @@ layout:
   - producto
 title: Sofás
 date: '2017-01-27 12:46:02 +0100'
-categories: productos
+categories: 'productos'
 published: true
 featured-image: 'http://www.muebleshuertas.es/images/sofas/sofas24.png'
 
