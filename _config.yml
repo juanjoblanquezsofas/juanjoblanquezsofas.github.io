@@ -60,10 +60,10 @@ prose:
               value: "producto"
             - name: "blog"
               value: "blog"
-      - name: "categoria"
+      - name: "categories"
         field:
           element: "select"
-          label: "Selecciona categoria"
+          label: "Selecciona Categoria"
           placeholder: "Escoge categoria"
           options:
             - name: "productos"
