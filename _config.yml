@@ -41,7 +41,7 @@ prose:
       - name: "featured-image"
         field:
           element: "hidden"
-          value: "3-SOFA.jpg"
+          value: ""
       - name: "published"
         field:
           element: "hidden"
@@ -49,13 +49,23 @@ prose:
       - name: "layout"
         field:
           element: "multiselect"
-          label: "Add layout"
+          label: "Selecciona layout"
           placeholder: "Escoge plantilla"
           options:
-            - name: "producto"
-              value: "producto"
-            - name: "blog"
-              value: "blog"
+            - name: 'producto'
+              value: 'producto'
+            - name: 'blog'
+              value: 'blog'
+       - name: "categoria"
+        field:
+          element: "multiselect"
+          label: "Selecciona categoria"
+          placeholder: "Escoge categoria"
+          options:
+            - name: 'productos'
+              value: 'productos'
+            - name: 'posts'
+              value: 'posts'       
     _posts/static:
       - name: "layout"
         field:
