@@ -1,9 +1,12 @@
 ---
 published: true
-layout: producto
+layout:
+  - producto
 title: Sofás
 date: '2017-01-27 12:46:02 +0100'
 categories: productos
+categoria:
+  - productos
 ---
 
 # Sofás
