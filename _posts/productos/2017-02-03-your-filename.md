@@ -1,9 +1,10 @@
 ---
-layout: producto
+published: false
+layout:
+  - producto
 title: Venga
 date: '2017-01-25 12:46:02 +0100'
 categories: productos
-published: true
 ---
 
 
