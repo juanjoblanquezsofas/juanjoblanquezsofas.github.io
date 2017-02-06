@@ -3,12 +3,12 @@ layout: default
 title: Tienda
 permalink: /tienda/
 group: menu
-published: true
+featured_image: '5-SOFA.jpg'
 ---
 
 <div class="row">
 	<div class="col-md-12">	
-		<img class="img-responsive" src="/images/5-SOFA.jpg" alt="">
+		<img class="img-responsive featured-image" src="{{site.baseurl}}/media/{{ page.featured_image }}" alt="">
 	</div>
 </div>
 
