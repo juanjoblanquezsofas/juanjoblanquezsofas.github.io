@@ -40,6 +40,7 @@ prose:
         field:
           label: "Título"
           element: "text"
+          value: ""
       - name: "featured_image"
         field:
           label: "Imagen destacada"
