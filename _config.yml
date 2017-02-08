@@ -40,9 +40,10 @@ prose:
         field:
           element: "text"
           label: "title"
+          value: ""
       - name: "featured_image"
         field:
-          element: "hidden"
+          element: "text"
           value: ""
       - name: "published"
         field:
@@ -51,8 +52,8 @@ prose:
       - name: "layout"
         field:
           element: "select"
-          label: "Selecciona layout"
-          placeholder: "Escoge plantilla"
+          label: "Layout"
+          placeholder: "Selecciona plantilla"
           options:
             - name: "producto"
               value: "producto"
@@ -61,8 +62,8 @@ prose:
       - name: "categories"
         field:
           element: "select"
-          label: "Selecciona Categoria"
-          placeholder: "Escoge categoria"
+          label: "Categoria"
+          placeholder: "Selleciona categoria"
           options:
             - name: "productos"
               value: "productos"
