@@ -4,9 +4,9 @@ title: BRENDA
 layout: producto
 categories: productos
 ---
-![producto-2-rt.png]({{site.baseurl}}/media/producto-2-rt.png)
+![producto-2-rt.png]({{site.baseurl}}/media/producto-2-rt.png){: .img-responsive}
 
-## Sofá de piel 2
+## Sofá de piel
 **BRENDA**
 
 Este sofá ofrece: practicidad, elegancia, confortabilidad y sobre todo amplitud.

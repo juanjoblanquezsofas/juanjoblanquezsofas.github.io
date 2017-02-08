@@ -5,7 +5,7 @@
 
 @import 'myVariables';
 @import 'bootstrap';
-@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
 
 
 // add more css stuff here
@@ -13,7 +13,10 @@
 body {
   padding-top: 50px;
 }
-
+h1, h2, h3 {
+    font-family: 'Raleway';
+    font-weight: 400;
+}
 a, a:hover, a:visited, a:focus {
     text-decoration: none;
 }
@@ -21,9 +24,13 @@ p {
     line-height: 30px;
     font-family: 'Raleway';
     letter-spacing: 1px;
+        margin-bottom: 0px;
 }
 .featured-image {
     margin-bottom: 30px !important;
+}
+article {
+    padding: 48px 0 108px 0;
 }
 
 

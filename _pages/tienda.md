@@ -18,10 +18,11 @@ featured_image: '5-SOFA.jpg'
 	    <br>
 	    <br>
 		<h3 class="text-center">Visítanos</h3>
-		<p class="text-center">C. BÉLGICA 37</p>
+		<p class="text-center">c. Bélgica 37</p>
         <p class="text-center">08917 Badalona</p>
-        <p class="text-center"><a href="telto:+34934654354">T. 934654354</a></p>
+        <p class="text-center"><a href="telto:+34934654354">T. 93 465 43 54</a></p>
         <p class="text-center"><a href="mailto:juanjoblanquez@juanjoblanquez.com" target="_blank">juanjoblanquez@juanjoblanquez.com</a></p>
+        <p class="text-center"><a href="https://goo.gl/maps/onQKVZeN5aE2" target="_blank">ver mapa</a></p>
 	</div>
 </div>
 
