@@ -42,7 +42,7 @@ prose:
           label: "title"
       - name: "featured_image"
         field:
-          element: "hidden"
+          element: "text"
           value: ""
       - name: "published"
         field:

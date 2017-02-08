@@ -1,6 +1,5 @@
 ---
 layout: base
-published: true
 ---
 
 <div class="container">
@@ -20,14 +19,13 @@ published: true
 					<h2 class="title">
                       <a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a>
                     </h2>
-					<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-					<img src="{{site.baseurl}}/media/{{ post.featured_image }}"
-                         class="img-responsive" alt="">
+					<!--<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>-->
+					<!--<img src="{{site.baseurl}}/media/{{ post.featured_image }}" class="img-responsive" alt="">-->
 				</div><!--/.article-head-->
 				
-              <div class="article-content">
+				<div class="article-content">
 					{{ post.content }}
-			  </div>
+				</div>
 			</article>
 			{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
 		</div>
