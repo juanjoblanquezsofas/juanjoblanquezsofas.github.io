@@ -36,6 +36,10 @@ prose:
     - /_includes
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "featured_image"
         field:
           element: "hidden"
@@ -46,7 +50,7 @@ prose:
           value: "true"          
       - name: "layout"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Selecciona layout"
           placeholder: "Escoge plantilla"
           options:
@@ -54,10 +58,10 @@ prose:
               value: "producto"
             - name: "blog"
               value: "blog"
-      - name: "categoria"
+      - name: "categories"
         field:
-          element: "multiselect"
-          label: "Selecciona categoria"
+          element: "select"
+          label: "Selecciona Categoria"
           placeholder: "Escoge categoria"
           options:
             - name: "productos"
