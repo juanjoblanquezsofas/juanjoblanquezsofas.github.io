@@ -38,10 +38,11 @@ prose:
     _posts:
       - name: "title"
         field:
+          label: "Título"
           element: "text"
-          label: "title"
       - name: "featured_image"
         field:
+          label: "Imagen destacada"
           element: "text"
           value: ""
       - name: "published"
@@ -51,8 +52,8 @@ prose:
       - name: "layout"
         field:
           element: "select"
-          label: "Selecciona layout"
-          placeholder: "Escoge plantilla"
+          label: "Layout"
+          placeholder: "Selecciona plantilla"
           options:
             - name: "producto"
               value: "producto"
@@ -61,8 +62,8 @@ prose:
       - name: "categories"
         field:
           element: "select"
-          label: "Selecciona Categoria"
-          placeholder: "Escoge categoria"
+          label: "Categoria"
+          placeholder: "Selleciona categoria"
           options:
             - name: "productos"
               value: "productos"
