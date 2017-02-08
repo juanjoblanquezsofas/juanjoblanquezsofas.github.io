@@ -1,7 +1,6 @@
 title: Juanjo Blánquez Sofás
 email: alexvicentejose@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Juanjo Blánquez sofás.
+description: Juanjo Blánquez sofás.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,12 +9,14 @@ markdown: kramdown
 
 sass:
   sass_dir: css
-  style:    expanded
+  style:    compressed
 
 # theme: minima
 
 gems:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile
@@ -26,7 +27,7 @@ exclude:
 
 include: ['_pages']  
 
-safe: true
+safe: false
 lsi: false
 
 prose:
