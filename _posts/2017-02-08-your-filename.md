@@ -4,8 +4,11 @@ title: BRENDA
 layout: producto
 categories: productos
 ---
-![3A-SOFA RECORTADO.png]({{site.baseurl}}/media/3A-SOFA%20RECORTADO.png)
+![producto-2-rt.png]({{site.baseurl}}/media/producto-2-rt.png)
 
-Sofá de piel
+## Sofá de piel 2
 **BRENDA**
-ancho: xxx / alto: xxx / largo: xxx
+
+Este sofá ofrece: practicidad, elegancia, confortabilidad y sobre todo amplitud.
+
+La belleza de su brazo se una al equilibrio de proporciones y le permite adaptarse con facilidad a espacios más reducidos manteniendo a la vez su singular personalidad.
