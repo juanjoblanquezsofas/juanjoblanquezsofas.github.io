@@ -37,7 +37,6 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   ignore:
-    - index.md
     - /_includes
   metadata:
     _posts:
