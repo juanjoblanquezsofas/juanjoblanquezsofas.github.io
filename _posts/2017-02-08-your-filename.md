@@ -4,7 +4,8 @@ title: BRENDA
 layout: producto
 categories: productos
 ---
-![producto-2-rt.png]({{site.baseurl}}/media/producto-2-rt.png){: .img-responsive}
+![producto-7-rct.jpg]({{site.baseurl}}/media/producto-7-rct.jpg)
+
 
 ## Sofá de piel
 **BRENDA**
