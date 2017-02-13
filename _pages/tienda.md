@@ -37,15 +37,15 @@ featured_image: '5-SOFA.jpg'
 	                    <h3 style="margin-bottom: 25px; text-align: center;">Envíanos un email!</h3>
 	    				<div class="form-group">
 							<input type="text" class="form-control text-center"
-							       id="name" name="name" placeholder="_tu nombre" required>
+							       id="name" name="name" placeholder="tu nombre" required>
 						</div>
 						<div class="form-group">
 							<input type="text" class="form-control text-center"
-							       id="email" name="email" placeholder="_tu dirección email" required>
+							       id="email" name="email" placeholder="tu dirección email" required>
 						</div>
 	                    <div class="form-group">
 	                    <textarea class="form-control text-center" type="textarea"
-	                              id="message" placeholder="_tu mensaje" maxlength="600" rows="7"></textarea>        
+	                              id="message" placeholder="tu mensaje" maxlength="600" rows="7"></textarea>        
 	                    </div>
 	            
 	        <button type="button" id="submit" name="submit" class="btn btn-primary btn-block text-center">Enviar</button>

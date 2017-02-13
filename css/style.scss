@@ -17,9 +17,6 @@
     transition: all 0.4s ease;
 }
 
-body {
-  padding-top: 50px;
-}
 h1, h2, h3 {
     font-family: 'Raleway';
     font-weight: 400;
@@ -31,7 +28,11 @@ p {
     line-height: 30px;
     font-family: 'Raleway';
     letter-spacing: 1px;
-        margin-bottom: 0px;
+    margin-bottom: 0px;
+    text-align: justify;
+}
+ul {
+    list-style: none; 
 }
 .featured-image {
     margin-bottom: 30px !important;
@@ -48,9 +49,26 @@ article {
   font-family: 'Raleway';
   letter-spacing: 1px;
 }
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
     background-color: #ffffff;
     border-bottom: 3px solid #eeeeee;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: transparent;
+}
+.ball {
+    width: 10px;
+    height: 10px;
+    background-color: #464646;
+    float: left;
+    margin: 0 0 0 5px;
+    border-radius: 50%;
+}
+span.tick {
+    font-weight: bold;
 }
 
 @media (min-width: 768px) {
@@ -62,7 +80,7 @@ article {
 
 /*LOGO*/
 .text-center.logo {
-    margin: 0 0 0px 0;
+    margin: 0 0 18px 0;
 }
 .juanjo-blanquez {
     font-size: 33px;
@@ -94,11 +112,14 @@ footer {
         line-height: 30px;
         font-family: 'Raleway';
         letter-spacing: 1px;
-        margin-bottom: 0px;     
+        margin-bottom: 0px; 
     }
 }
 
 @media (min-width: 768px){
+    body {
+        padding-top: 50px;
+    }
     .navbar-nav{
         float:none;
         margin: 0 auto;

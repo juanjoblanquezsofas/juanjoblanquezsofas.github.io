@@ -2,11 +2,12 @@
       <div class="container">
 
         <div class="navbar-header">
-          <button type="button" style="border:1px solid #000;" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+          <button type="button" class="navbar-toggle collapsed"
+                  data-toggle="collapse" data-target="#navbar"
+                  aria-expanded="false" aria-controls="navbar">
+            <div class="ball"></div>
+            <div class="ball"></div>
+            <div class="ball"></div>
           </button>
         </div>
 
@@ -19,7 +20,7 @@
           </a>
         </div>
     
-        <div id="navbar" class="collapse navbar-collapse">
+        <div id="navbar" class="collapse navbar-collapse"><!--  -->
           <ul class="nav navbar-nav text-center">
             {% assign pages_list = site.pages %}
             {% assign group = 'menu' %}
