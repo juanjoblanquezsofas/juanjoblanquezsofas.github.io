@@ -28,7 +28,7 @@ exclude:
 
 include: ['_pages']  
 
-safe: true
+safe: false
 lsi: false
 
 prose:
