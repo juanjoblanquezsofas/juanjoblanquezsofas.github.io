@@ -3,8 +3,7 @@ published: true
 layout: producto
 categories: productos
 ---
-![producto-6-rct.jpg]({{site.baseurl}}/media/producto-6-rct.jpg)
-{: .img-responsive}
+![producto-6-rct.jpg]({{site.baseurl}}/media/producto-6-rct.jpg){: .img-responsive}
 
 
 ## Sofá 6
