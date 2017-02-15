@@ -44,6 +44,7 @@ prose:
         field:
           element: "text"
           label: "title"
+          value: ""
       - name: "featured_image"
         field:
           label: "Imagen destacada"
