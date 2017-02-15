@@ -3,9 +3,9 @@ layout: default
 title: Servicios
 permalink: /servicios/
 group: menu
-featured_image: '2-SOFA.jpg'
+featured_image: producto-2.jpg
+published: true
 ---
-
 <div class="row">
 
 	<div class="col-md-12">	
