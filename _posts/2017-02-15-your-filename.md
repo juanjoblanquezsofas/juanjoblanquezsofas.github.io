@@ -2,7 +2,13 @@
 published: true
 layout: producto
 categories: productos
+title: Juanjo Blánquez Sofás
 ---
-## A New Post
+![producto-7-rt.png]({{site.baseurl}}/media/producto-4-rt.png){: .img-responsive}
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Sofá 4
+**BRENDA**
+
+Este sofá ofrece: practicidad, elegancia, confortabilidad y sobre todo amplitud.
+
+La belleza de su brazo se una al equilibrio de proporciones y le permite adaptarse con facilidad a espacios más reducidos manteniendo a la vez su singular personalidad.
