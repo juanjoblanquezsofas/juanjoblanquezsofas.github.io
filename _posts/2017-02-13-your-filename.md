@@ -1,10 +1,10 @@
 ---
 published: true
-title: ''
+title: Juanjo Blánquez Sofás
 ---
-![producto-6.jpg]({{site.baseurl}}/media/producto-6.jpg){: .img-responsive}
+![producto-5-rt.png]({{site.baseurl}}/media/producto-5-rt.png){: .img-responsive}
 
-## Sofá de piel
+## Sofá
 **BRENDA**
 
 Este sofá ofrece: practicidad, elegancia, confortabilidad y sobre todo amplitud.
