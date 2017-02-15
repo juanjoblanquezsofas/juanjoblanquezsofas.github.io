@@ -40,10 +40,6 @@ prose:
     - /_includes
   metadata:
     _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
       - name: "featured_image"
         field:
           label: "Imagen destacada"
