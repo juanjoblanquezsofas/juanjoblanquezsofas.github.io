@@ -4,7 +4,7 @@ title: Juanjo Blánquez Sofás
 ---
 ![producto-5-rt.png]({{site.baseurl}}/media/producto-5-rt.png){: .img-responsive}
 
-## Sofá
+## Sofá 5
 **BRENDA**
 
 Este sofá ofrece: practicidad, elegancia, confortabilidad y sobre todo amplitud.
