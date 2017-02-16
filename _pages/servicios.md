@@ -7,34 +7,32 @@ featured_image: producto-2.jpg
 published: true
 ---
 <div class="row">
-
 	<div class="col-md-12">	
 		<img class="img-responsive featured-image" src="{{site.baseurl}}/media/{{ page.featured_image }}" alt="">
 	</div>
+</div>	
 
+<div class="row">
 	<div class="col-md-3"></div>
-
 	<div class="col-md-6 text-center">
-		<p>&nbsp;</p>
-		<p>Porque sabemos lo importante que es combinar comodidad con diseño, en nuestros locales encontrará una inmensa variedad de sofás y un equipo de profesionales que le asesoran en todo aquello que necesite. Disponemos de sofás, tanto en tela como piel. Usted mismo podrá elegir el color y solicitar medidas personalizadas. Para su máxima comodidad ponemos a su disposición sofás con chaislongue, cabezales reclinables, asientos deslizantes, asientos con canapé abatible y también mecanismos eléctricos de relax o Power Life (Sistema elevador).</p>
-		<p>&nbsp;</p>
-		<p>“Juanjo Blánquez Sofás” nace con la idea de complacer por completo a nuestros clientes que deciden disponer de asesoramiento profesional de interiorismo para hacer más agradable su hogar. Ofrecemos una extensa gama de calidades y precios en tresillos, sofás y complementos para la decoración del hogar.</p>
-		<p>&nbsp;</p>
+		<h3>TU SOFÁ IDEAL<br> EN JUANJO BLÁNQUEZ SOFÁS</h3>
 
-		<div class="row">
-			<div class="col-md-2"></div>
-			<div class="col-md-8">
-				<p class="text-center"><span class="tick">✔</span> TE LO LLEVAMOS A CASA GRATIS</p>
-				<p class="text-center"><span class="tick">✔</span> FINANCIACIÓN 12 MESES SIN INTERESES</p>
-				<p class="text-center"><span class="tick">✔</span> SEGURO DE PIEL 5 AÑOS</p>				
-			</div>
-			<div class="col-md-2"></div>
-		</div>
+		<p>Comercio del sofá con más de 1.400 m2 de exposición donde encontrarás sofás de todos los estilos y hechos a la medida que necesites. Podrás elegir cualquier tipo de composición, chaislongue, asientos deslizante o asientos relax (motorizados), cabezales con diversos mecanismos y posiciones, espumas con viscolástica y todo tipo de tejidos de última generación. También encontrarás rinconeras, sofás cama, sillones relax de todo tipo (también elevadores) y por supuesto colchones y somiers. Todo de última generación y de fabricación española.</p>
 
+		<p>El sofá, no es tan sólo un elemento cómodo donde descansar. El sofá es el lugar de los sueños, las siestas y los anhelos, donde nos reímos con amigos, donde leemos y amamos y sobretodo donde dejamos que el tiempo se detenga. El sofá es una pieza clave en el hogar. ¡Disfrútalo como te mereces! Elige calidad, comodidad y diseño, todo en uno.</p>
+
+		<h3>✔ DISEÑO</h3>
+		<p>Además de en la innovación, Juanjo Blanquez Sofás, pone gran énfasis en la ergonomía y en el confort de los productos que ofrece, resultando estos atractivos, de altas prestaciones y a su vez a un precio inmejorable.</p>
+
+		<h3>✔ GARANTÍA DE CALIDAD</h3>
+		<p>Los productos que ofrece Juanjo Blanquez Sofás, son 100% nacionales y mantienen un continuo CONTROL DE CALIDAD, certificado por la empresa BSI.</p>
+
+		<h3>✔ FINANCIACIÓN</h3>
+		<p>A tres, seis y doce meses sin intereses.</p>
+
+		<h3>✔ TRANSPORTE GRATUITO</h3>
+		<p>(*A partir de 30km. podría haber un pequeño recargo en este servicio).</p>		
 	</div>
-
 	<div class="col-md-3"></div>
+</div>
 
-	
-	
-	</div>

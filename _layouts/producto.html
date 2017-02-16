@@ -3,34 +3,32 @@ layout: base
 ---
 
 <div class="container">
-
-	<!--<div class="row">
-		<div class="col-md-12">
-			<img src="http://www.ardicoleccion.com/wp-content/uploads/2015/02/sofa-sara-ardi-001.jpg" alt="" class="img-responsive">
-		</div>	
-	</div>-->
-
-	<div class="row text-center">
-		{% for post in site.posts %}
-		{% if post.categories contains 'productos' %}
-		<div class="col-md-6 col-md-offset-3">
-		    <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-				<div class="article-head">
-					<!--<h2 class="title">
-                      <a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a>
-                    </h2>-->
-					<!--<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>-->
-					<!--<img src="{{site.baseurl}}/media/{{ post.featured_image }}" class="img-responsive" alt="">-->
-				</div><!--/.article-head-->
-				
-				<div class="article-content">
-					{{ post.content }}
-				</div>
-			</article>
-			{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
+	{% for post in site.posts %}
+	{% if post.categories contains 'productos' %}
+	<article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+				<img class="img-responsive" src="{{site.baseurl}}/media/{{post.featured_image}}">
+			</div>	
 		</div>
-		{% endif %}
-		{% endfor %}
-	</div>
-
+		<div class="row">	
+			<div class="col-md-6 col-md-offset-3">
+			    
+					<div class="article-head">
+						<!--<h2 class="title">
+	                      <a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a>
+	                    </h2>-->
+						<!--<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>-->
+						<!--<img src="{{site.baseurl}}/media/{{ post.featured_image }}" class="img-responsive" alt="">-->
+					</div><!--/.article-head-->
+					
+					<div class="article-content text-center">
+						{{ post.content }}
+					</div>
+			</div>
+		</div>
+	</article>
+	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}	
+	{% endif %}
+	{% endfor %}
 </div>

@@ -21,15 +21,23 @@ h1, h2, h3 {
     font-family: 'Raleway';
     font-weight: 400;
 }
+h3 {
+    margin-top: 34px;
+    margin-bottom: 11.5px;
+}
 a, a:hover, a:visited, a:focus {
     text-decoration: none;
 }
+
 p {
-    line-height: 30px;
+    line-height: 31px;
     font-family: 'Raleway';
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     margin-bottom: 0px;
     text-align: justify;
+}
+article p {
+    text-align: center;
 }
 ul {
     list-style: none; 
