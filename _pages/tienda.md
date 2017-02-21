@@ -3,19 +3,15 @@ layout: default
 title: Tienda
 permalink: /tienda/
 group: menu
-featured_image: '5-SOFA.jpg'
+featured_image: 'tienda_juanjo_blanquez.jpg'
 ---
 
 <div class="row">
-	<div class="col-md-12">	
-		<img class="img-responsive featured-image" src="{{site.baseurl}}/media/{{ page.featured_image }}" alt="">
-	</div>
+	<img class="img-responsive featured-image" src="{{site.baseurl}}/media/{{ page.featured_image }}" alt="">
 </div>
 
 <div class="row">
 	<div class="col-md-12">
-	    <br>
-	    <br>
 	    <br>
 		<h3 class="text-center">Visítanos</h3>
 		<p class="text-center">c. Bélgica 37</p>
