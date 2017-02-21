@@ -3,7 +3,8 @@ layout: default
 title: Tienda
 permalink: /tienda/
 group: menu
-featured_image: 'tienda_juanjo_blanquez.jpg'
+featured_image: tienda_juanjo_blanquez.jpg
+published: true
 ---
 
 <div class="row">
@@ -16,7 +17,7 @@ featured_image: 'tienda_juanjo_blanquez.jpg'
 		<h3 class="text-center">Visítanos</h3>
 		<p class="text-center">c. Bélgica 37</p>
         <p class="text-center">08917 Badalona</p>
-        <p class="text-center"><a href="telto:+34934654354">T. 93 465 43 54</a></p>
+        <p class="text-center"><a href="telto:+34934654354">t. 93 465 43 54</a></p>
         <p class="text-center"><a href="mailto:juanjoblanquez@juanjoblanquez.com" target="_blank">juanjoblanquez@juanjoblanquez.com</a></p>
         <p class="text-center"><a href="https://goo.gl/maps/onQKVZeN5aE2" target="_blank">ver mapa</a></p>
 	</div>
