@@ -31,7 +31,7 @@ published: true
 	    <div class="form-area">  
 	        <form role="form">
 	        <br style="clear:both">
-	                    <h3 style="margin-bottom: 25px; text-align: center;">Envíenos un email!</h3>
+	                    <h3 style="margin-bottom: 25px; text-align: center;">Envíenos un email</h3>
 	    				<div class="form-group">
 							<input type="text" class="form-control text-center"
 							       id="name" name="name" placeholder="tu nombre" required>
