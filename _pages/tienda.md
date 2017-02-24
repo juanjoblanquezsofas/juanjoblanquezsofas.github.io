@@ -14,7 +14,7 @@ published: true
 <div class="row">
 	<div class="col-md-12">
 	    <br>
-		<h3 class="text-center">Visítanos</h3>
+		<h3 class="text-center">Visítenos</h3>
 		<p class="text-center">c. Bélgica 37</p>
         <p class="text-center">08917 Badalona</p>
         <p class="text-center"><a href="telto:+34934654354">t. 93 465 43 54</a></p>
@@ -31,7 +31,7 @@ published: true
 	    <div class="form-area">  
 	        <form role="form">
 	        <br style="clear:both">
-	                    <h3 style="margin-bottom: 25px; text-align: center;">Envíanos un email!</h3>
+	                    <h3 style="margin-bottom: 25px; text-align: center;">Envíenos un email!</h3>
 	    				<div class="form-group">
 							<input type="text" class="form-control text-center"
 							       id="name" name="name" placeholder="tu nombre" required>
