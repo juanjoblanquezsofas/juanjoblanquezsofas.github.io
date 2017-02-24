@@ -14,9 +14,9 @@ published: true
 	<div class="col-md-3"></div>
 	<div class="col-md-6 text-center">
 		<h3>TU SOFÁ IDEAL<br> EN JUANJO BLÁNQUEZ SOFÁS</h3>
-		<p>Comercio del sofá con más de 1.400 m2 de exposición donde encontrarás sofás de todos los estilos y hechos a la medida que necesites. Podrás elegir cualquier tipo de composición, chaislongue, asientos deslizante o asientos relax (motorizados), cabezales con diversos mecanismos y posiciones, espumas con viscolástica y todo tipo de tejidos de última generación. También encontrarás rinconeras, sofás cama, sillones relax de todo tipo (también elevadores) y por supuesto colchones y somiers. Todo de última generación y de fabricación española.</p>
+		<p>Comercio del sofá con más de 1.400 m2 de exposición donde encontrará sofás de todos los estilos y hechos a la medida que necesites. Podrá elegir cualquier tipo de composición, chaislongue, asientos deslizante o asientos relax (motorizados), cabezales con diversos mecanismos y posiciones, espumas con viscolástica y todo tipo de tejidos de última generación. También encontrará rinconeras, sofás cama, sillones relax de todo tipo (también elevadores) y por supuesto colchones y somiers. Todo de última generación y de fabricación española.</p>
 
-		<p>El sofá, no es tan sólo un elemento cómodo donde descansar. El sofá es el lugar de los sueños, las siestas y los anhelos, donde nos reímos con amigos, donde leemos y amamos y sobretodo donde dejamos que el tiempo se detenga. El sofá es una pieza clave en el hogar. ¡Disfrútalo como te mereces! Elige calidad, comodidad y diseño, todo en uno.</p>
+		<p>El sofá, no es tan sólo un elemento cómodo donde descansar. El sofá es el lugar de los sueños, las siestas y los anhelos, donde nos reímos con amigos, donde leemos y amamos y sobretodo donde dejamos que el tiempo se detenga. El sofá es una pieza clave en el hogar. ¡Disfrútelo como se merece! Elija calidad, comodidad y diseño, todo en uno.</p>
 
 		<p>&nbsp;</p>
 
@@ -38,4 +38,3 @@ published: true
 	</div>
 	<div class="col-md-3"></div>
 </div>
-
